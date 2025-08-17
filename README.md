@@ -1,5 +1,17 @@
 # React + Vite
 
+# React Auth + Product CRUD Frontend
+
+This is the React frontend for the Node.js authentication and product CRUD system.
+
+## Setup
+
+```bash
+git clone https://github.com/<ajay-rana-20>/react-auth-crud-frontend.git
+cd react-auth-crud-frontend
+npm install
+npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
